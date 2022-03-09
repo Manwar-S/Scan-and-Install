@@ -1,0 +1,5 @@
+chrome
+earth
+firefox
+zoom
+office
